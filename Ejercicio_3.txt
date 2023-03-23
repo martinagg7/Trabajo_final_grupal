@@ -1,0 +1,7 @@
+1. Planeta/Saturno: sí es adecuado ya que Saturno es uno de los planetas que existen y tiene sus propiedades
+
+2. Lista/Directorio telefónico: sí es adecuado ya que un directorio telefónico es una lista y tiene sus propiedades
+
+3. Animal de compañía/Perro: sí es adecuado ya que el perro es un animal de compañía y tiene sus propiedades
+
+4. Dos ruedas/Bicicleta: no es adecuado ya que tener dos ruedas es simplemente una característica de las bicicletas
