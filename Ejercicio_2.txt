@@ -1,0 +1,9 @@
+1. Aeropuerto / Avión: agregación, porque un aeropuerto contiene aviones, pero si este se destruye no tienen por que hacerlo también los aviones
+
+2. Continente / País: composición, porque un continente contiene países, y si este se destruye, también lo hacen los países que pertenecen a él
+
+3. Molécula / Átomo: composición, porque una molécula contiene átomos, y si se destruye una moléculas tambíen lo hacen los átomos que la forman
+
+4. Colmena / Abeja: composición, porque una Colmena contiene abejas, y si esta se destruye entonces no quedarán abejas 
+
+5. Muñeca rusa / Muñeca rusa: agregación, porque una muñeca rusa contiene muñecas rusas en su interior, pero si la grande se rompe, siguen quedando las del interior
